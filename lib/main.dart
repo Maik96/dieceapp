@@ -9,10 +9,10 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.red,
+        backgroundColor: const Color.fromARGB(255, 54, 108, 244),
         appBar: AppBar(
-          title: Text('Dicee'),
-          backgroundColor: Colors.red,
+          title: Text('Roll the dice'),
+          backgroundColor: Color.fromARGB(255, 29, 96, 196),
         ),
         body: DicePage(),
       ),

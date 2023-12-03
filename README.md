@@ -1,16 +1,11 @@
-# diceapp
 
-A new Flutter project.
 
-## Getting Started
+### Rolling the dice
 
-This project is a starting point for a Flutter application.
+An dice-rolling app delivering the excitement of random outcomes.
 
-A few resources to get you started if this is your first Flutter project:
+You also will get the sum of the dice.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Good luck!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](images/screen.png)
